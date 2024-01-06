@@ -18,6 +18,6 @@ data "aws_ami" "example" {
   }
 }
 
-data "aws_availability_zone" "name" {
+data "aws_availability_zone" "azs" {
   
 }
